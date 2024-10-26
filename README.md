@@ -10,3 +10,7 @@ This is reffered from 100x devs for the backend and frontend
 - Typescript
 - JWT Auth
 - Express
+
+Upcoming Changes
+- Clerk Authentication
+- Shadcn UI
