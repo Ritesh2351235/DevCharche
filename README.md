@@ -14,3 +14,4 @@ This is reffered from 100x devs for the backend and frontend
 Upcoming Changes
 - Clerk Authentication
 - Shadcn UI
+- Accencitry UI
